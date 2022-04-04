@@ -1,0 +1,6 @@
+*.a
+*.o
+*.a
+objs
+a.out
+main.c

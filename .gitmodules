@@ -1,0 +1,6 @@
+[submodule "libdclist"]
+	path = libdclist
+	url = https://github.com/Masaya-Kamei/libdclist.git
+[submodule "libft"]
+	path = libft
+	url = https://github.com/Masaya-Kamei/libft.git
