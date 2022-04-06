@@ -4,3 +4,6 @@
 [submodule "libft"]
 	path = libft
 	url = https://github.com/Masaya-Kamei/libft.git
+[submodule "libgnl"]
+	path = libgnl
+	url = https://github.com/Masaya-Kamei/libgnl.git
